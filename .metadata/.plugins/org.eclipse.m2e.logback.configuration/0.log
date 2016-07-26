@@ -1,0 +1,29 @@
+2016-07-25 13:22:26,797 [ModalContext] ERROR o.e.m.i.d.MavenDiscoveryService - Status ERROR: org.eclipse.equinox.p2.discovery code=0 Failed to discover all connectors. null children=[Status ERROR: org.eclipse.equinox.p2.discovery code=0 M2ERemoteBundleDiscoveryStrategy failed with an error org.eclipse.core.runtime.CoreException: IO failure: cannot load discovery directory]
+2016-07-25 13:22:29,524 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HIS_API:HIS_API:1.0-SNAPSHOT @ /home/his/Documents/NewWorkspace_2016/HIS_API/pom.xml.
+2016-07-25 13:22:31,516 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HIS_API/src/main/java
+2016-07-25 13:22:31,516 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HIS_API/src/main/resources
+2016-07-25 13:22:31,517 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HIS_API/src/test/java
+2016-07-25 13:22:31,607 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HIS_API:HIS_API:1.0-SNAPSHOT @ /home/his/Documents/NewWorkspace_2016/HIS_API/pom.xml.
+2016-07-25 13:22:34,391 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 6 sec
+2016-07-25 13:22:36,208 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-25 13:22:36,209 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-25 13:22:41,342 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HIS_API:HIS_API:1.0-SNAPSHOT @ /home/his/Documents/NewWorkspace_2016/HIS_API/pom.xml.
+2016-07-25 13:22:42,114 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 13:22:42,119 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-25 13:22:42,125 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 13:22:42,126 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/his/Documents/NewWorkspace_2016/HIS_API/src/test/resources
+2016-07-25 13:23:47,042 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HIS_API:HIS_API:1.0-SNAPSHOT @ /home/his/Documents/NewWorkspace_2016/HIS_API/pom.xml.
+2016-07-25 13:23:49,930 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HIS_API:HIS_API:1.0-SNAPSHOT @ /home/his/Documents/NewWorkspace_2016/HIS_API/pom.xml.
+2016-07-25 13:23:50,948 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 13:23:50,954 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-25 13:23:50,986 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 13:23:50,987 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/his/Documents/NewWorkspace_2016/HIS_API/src/test/resources
+2016-07-25 13:23:52,122 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.HIS_API:HIS_API:1.0-SNAPSHOT @ /home/his/Documents/NewWorkspace_2016/HIS_API/pom.xml.
+2016-07-25 13:23:54,148 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 13:23:54,191 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-25 13:23:54,197 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 13:23:54,197 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/his/Documents/NewWorkspace_2016/HIS_API/src/test/resources
+2016-07-25 15:19:23,752 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 15:19:23,752 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-25 15:19:23,756 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-25 15:19:23,756 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/his/Documents/NewWorkspace_2016/HIS_API/src/test/resources
